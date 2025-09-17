@@ -1,5 +1,9 @@
-# Hotel-Management-System
-Case Study: Successful Implementation of Hotel Management System (HMS)
+
+                                                                # Hotel-Management-System
+
+                                                                
+Case Study: Successful Implementation of Hotel Management System (HMS):
+
 A mid-range hotel faced challenges in managing high booking volumes, ensuring room availability, and improving staff communication. To address these, the hotel implemented the Hotel Management System (HMS), which automated key processes like room bookings, payment processing, and room assignments, ensuring seamless operations and real-time synchronization across departments.
 With the HMS, receptionists efficiently managed check-ins, check-outs, and room status updates in real time, reducing delays and preventing overbooking. The system’s dashboard displayed booking ID, guest details, and room assignments, streamlining operations. Receptionists could also cancel or modify bookings quickly, enhancing guest satisfaction.
 For housekeeping staff, the system enabled room assignments, maintenance tracking, and task management. Staff could mark rooms as cleaned and report maintenance issues, triggering automatic alerts to administrators, who monitored progress and resolved issues faster.
@@ -7,7 +11,9 @@ Administrators gained better control with dashboards displaying critical stats l
 The HMS enhanced customer experience with a review system, allowing guests to rate their stays and book additional services like the pool, spa, and buffet. By digitizing manual processes, the HMS reduced errors, improved resource allocation, and boosted staff productivity.
 Overall, the HMS transformed the hotel’s operations, improving operational accuracy, reducing manual tasks, and enhancing guest satisfaction, making it an ideal solution for hospitality businesses seeking efficiency and scalability.
 
-                                      Features List  
+
+                                                         Features List  
+                                                         
                                       
 1. User Authentication & Management
 •	Registration: New users can sign up with name, email, phone, and password.
@@ -130,17 +136,23 @@ o	Search rooms by type.
 •	Date Validation:
 o	Prevents booking conflicts by checking room availability.
 
-                                      Schema Diagram
+
+                                                                Schema Diagram
+   
    <img width="1065" height="683" alt="image" src="https://github.com/user-attachments/assets/c60f79b3-ba6a-47de-842d-eb5472a1e1b3" />
 
-                                       ER  DIAGRAM
+
+                                                                 ER  DIAGRAM
+   
 <img width="1079" height="1230" alt="image" src="https://github.com/user-attachments/assets/0bf1412e-12a4-4766-bdee-a5a30fe817b1" />
 
 
  
  
-                                  System Functionalities with SQL Queries
-ADMIN DASHBOARD:
+                                                        System Functionalities with SQL Queries
+
+
+   ADMIN DASHBOARD:
 
    1.LOAD ROOMS
 SELECT RA.ROOM_ID, SA.NAME
@@ -386,7 +398,9 @@ WHERE EMAIL = @Email
 END
 
 
-   Home Page:
+                                                         Home Page:
+
+                                                         
    <img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/5ab30aa5-8b6d-42b8-a939-fe55c22e22fc" />
    <img width="975" height="255" alt="image" src="https://github.com/user-attachments/assets/6d1df9f7-cdcf-46f7-be1e-fb2da128310d" />
    <img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/0e0d09da-45e0-488f-baa7-d771ad5b8719" />
@@ -438,7 +452,9 @@ Reports :
 
 <img width="975" height="630" alt="image" src="https://github.com/user-attachments/assets/eed3c94c-123e-4105-b547-26f311050318" />
 
-CUSTOMER PANEL(ROOMS)  :
+ 
+                                                          CUSTOMER PANEL(ROOMS)  :
+                                                          
 
 <img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/341ed5f5-ae05-4981-86e0-a1a87b866818" />
 
@@ -476,7 +492,9 @@ Facilities Add Option :
 
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/eeb05e3e-a5e2-4198-8d03-4918592e7315" />
 
-RECEPTIONIST DASHBOARD :
+
+                                                      RECEPTIONIST DASHBOARD :
+                                                      
 
 <img width="940" height="475" alt="image" src="https://github.com/user-attachments/assets/f0771e5d-11c8-47e9-8dfb-63e1b551d73c" />
 
@@ -496,7 +514,7 @@ Receptionist Profile(Additional Info ):
 <img width="940" height="539" alt="image" src="https://github.com/user-attachments/assets/194413f3-9d5b-490d-9f92-83dc7031732a" />
 
 
-Staff Dashboard :
+                                                        Staff Dashboard :
 
 
 <img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/77f62207-47a7-488d-8c04-f34403fe0938" />
