@@ -1,0 +1,1915 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\9th semester\\HMS PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|e:\\9th semester\\hms project\\final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|e:\\9th semester\\hms project\\final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|e:\\9th semester\\hms project\\final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\showmytask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\showmytask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staffdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\showmytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staff_leaveapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staff_leaveapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\quickcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\quickcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\facility_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\facility_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\employee_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\employee_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\manage_users_admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\manage_users_admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.EMPLOYEE_SALARY.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\assign_staff_task.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\assign_staff_task.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\user_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\user_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\facility_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\facility_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\facility_booking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\facility_booking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\update_booking_status_rc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\update_booking_status_rc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\assign_staff_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\quickcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\quickcheckoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\quickcheckoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\quickcheckoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\manage_users_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\pending_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\employee_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\edit_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\update_booking_status_rc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\glfhgn2v..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.LEAVE_REQUEST.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\room_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\room_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\confirm_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\room_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.USER_TABLE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_rooms_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|e:\\9th semester\\hms project\\final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOTEL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.ROOM_ASSIGNMENTS.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.BOOKINGS_TABLE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\handle_leave_requestcsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\staff_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|E:\\9th semester\\HMS PROJECT\\final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D62F9E-1421-4460-B6D1-82F394204F60}|final_Project\\HOREL_MANAGEMENT_SYSTEM.csproj|solutionrelative:final_project\\reciptionist_leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDATABASE/True/SqlTable/dbo.ROOM_TABLE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeDocumentMoniker": "final_Project\\Login.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeToolTip": "final_Project\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:09.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee_Profile.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\Employee_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs [Design]",
+              "RelativeToolTip": "final_Project\\Employee_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:50:11.869Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee_Profile.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\Employee_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeToolTip": "final_Project\\Employee_Profile.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAFoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:50:11.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forgot_Password.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "final_Project\\Forgot_Password.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs [Design]",
+              "RelativeToolTip": "final_Project\\Forgot_Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:59.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forgot_Password.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "final_Project\\Forgot_Password.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeToolTip": "final_Project\\Forgot_Password.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:16:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update_Booking_Status_RC.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeDocumentMoniker": "final_Project\\Update_Booking_Status_RC.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeToolTip": "final_Project\\Update_Booking_Status_RC.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAvwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirm_Bookings.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs",
+              "RelativeDocumentMoniker": "final_Project\\Confirm_Bookings.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs [Design]",
+              "RelativeToolTip": "final_Project\\Confirm_Bookings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assign_Staff_Task.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeDocumentMoniker": "final_Project\\Assign_Staff_Task.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeToolTip": "final_Project\\Assign_Staff_Task.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAADwv/kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:58.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assign_Staff_Task.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeDocumentMoniker": "final_Project\\Assign_Staff_Task.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs [Design]",
+              "RelativeToolTip": "final_Project\\Assign_Staff_Task.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T05:25:05.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reciptionist_Leave.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist_Leave.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeToolTip": "final_Project\\Reciptionist_Leave.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAA1wLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:40.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reciptionist_Leave.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist_Leave.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs [Design]",
+              "RelativeToolTip": "final_Project\\Reciptionist_Leave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:30:56.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reciptionist.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeToolTip": "final_Project\\Reciptionist.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAswH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:57:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reciptionist.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs [Design]",
+              "RelativeToolTip": "final_Project\\Reciptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:57:42.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "showMYTask.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs",
+              "RelativeDocumentMoniker": "final_Project\\showMYTask.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs",
+              "RelativeToolTip": "final_Project\\showMYTask.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAwwLkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:51:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "showMYTask.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs",
+              "RelativeDocumentMoniker": "final_Project\\showMYTask.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs [Design]",
+              "RelativeToolTip": "final_Project\\showMYTask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:37.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff_LeaveApplication.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeDocumentMoniker": "final_Project\\Staff_LeaveApplication.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeToolTip": "final_Project\\Staff_LeaveApplication.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAowEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Staff_LeaveApplication.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeDocumentMoniker": "final_Project\\Staff_LeaveApplication.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs [Design]",
+              "RelativeToolTip": "final_Project\\Staff_LeaveApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:55:38.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffDashboard.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\StaffDashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeToolTip": "final_Project\\StaffDashboard.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAIwOQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\StaffDashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs [Design]",
+              "RelativeToolTip": "final_Project\\StaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:56:00.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs",
+              "RelativeToolTip": "final_Project\\Payment.cs",
+              "ViewState": "AgIAADYCAAAAAAAAAAAAwFoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs [Design]",
+              "RelativeToolTip": "final_Project\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:37:03.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeDocumentMoniker": "final_Project\\Rooms.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeToolTip": "final_Project\\Rooms.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAowIUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rooms.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeDocumentMoniker": "final_Project\\Rooms.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs [Design]",
+              "RelativeToolTip": "final_Project\\Rooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Room_Details.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeDocumentMoniker": "final_Project\\Room_Details.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeToolTip": "final_Project\\Room_Details.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAkwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Room_Details.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeDocumentMoniker": "final_Project\\Room_Details.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs [Design]",
+              "RelativeToolTip": "final_Project\\Room_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeDocumentMoniker": "final_Project\\Registration.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeToolTip": "final_Project\\Registration.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAUwMEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:49:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeDocumentMoniker": "final_Project\\Registration.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeToolTip": "final_Project\\Registration.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwHEAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:53:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeDocumentMoniker": "final_Project\\Registration.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs [Design]",
+              "RelativeToolTip": "final_Project\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:31:00.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeDocumentMoniker": "final_Project\\Login.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeToolTip": "final_Project\\Login.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:17:18.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeDocumentMoniker": "final_Project\\Login.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs [Design]",
+              "RelativeToolTip": "final_Project\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:50:14.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Manage_Users_Admin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Manage_Users_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Manage_Users_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:59.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeToolTip": "final_Project\\Admin_Dashboard.cs",
+              "ViewState": "AgIAAOsDAAAAAAAAAAAYwBEEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:54:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "final_Project\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:54:18.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User_Profile.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\User_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeToolTip": "final_Project\\User_Profile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwNsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:59.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User_Profile.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\User_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs [Design]",
+              "RelativeToolTip": "final_Project\\User_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:49:56.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "showMYTask.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\showMYTask.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.Designer.cs",
+              "RelativeToolTip": "final_Project\\showMYTask.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:05:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StaffDashboard.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\StaffDashboard.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.Designer.cs",
+              "RelativeToolTip": "final_Project\\StaffDashboard.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAiwDEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T07:21:21.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "showMYTask.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs",
+              "RelativeDocumentMoniker": "final_Project\\showMYTask.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\showMYTask.cs",
+              "RelativeToolTip": "final_Project\\showMYTask.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowKkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Staff_LeaveApplication.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Staff_LeaveApplication.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.Designer.cs",
+              "RelativeToolTip": "final_Project\\Staff_LeaveApplication.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:06:16.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit_Info.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeDocumentMoniker": "final_Project\\Edit_Info.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeToolTip": "final_Project\\Edit_Info.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:50:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit_Info.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeDocumentMoniker": "final_Project\\Edit_Info.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs [Design]",
+              "RelativeToolTip": "final_Project\\Edit_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:50:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Update_Booking_Status_RC.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeDocumentMoniker": "final_Project\\Update_Booking_Status_RC.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs [Design]",
+              "RelativeToolTip": "final_Project\\Update_Booking_Status_RC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:49:51.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Manage_Users_Admin.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Manage_Users_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeToolTip": "final_Project\\Manage_Users_Admin.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:26:50.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeDocumentMoniker": "final_Project\\Home.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs [Design]",
+              "RelativeToolTip": "final_Project\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:45:14.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Admin_Dashboard.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Admin_Dashboard.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.Designer.cs",
+              "RelativeToolTip": "final_Project\\Admin_Dashboard.Designer.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAYwP4CAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:48:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "QuickCheckOutForm.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.cs",
+              "RelativeDocumentMoniker": "final_Project\\QuickCheckOutForm.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.cs [Design]",
+              "RelativeToolTip": "final_Project\\QuickCheckOutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:40:00.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Pending_Payment.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Pending_Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs [Design]",
+              "RelativeToolTip": "final_Project\\Pending_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:57:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Handle_Rooms_Admin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Rooms_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Handle_Rooms_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:49:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Handle_Leave_RequestcsAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Handle_Leave_RequestcsAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:49:45.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Facility_Booking.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.cs",
+              "RelativeDocumentMoniker": "final_Project\\Facility_Booking.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.cs [Design]",
+              "RelativeToolTip": "final_Project\\Facility_Booking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:01:59.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Employee_Profile.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Employee_Profile.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.Designer.cs",
+              "RelativeToolTip": "final_Project\\Employee_Profile.Designer.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAjwD4BAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T07:30:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Manage_Users_Admin.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Manage_Users_Admin.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.Designer.cs",
+              "RelativeToolTip": "final_Project\\Manage_Users_Admin.Designer.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAUwMsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:55:27.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeDocumentMoniker": "final_Project\\Home.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeToolTip": "final_Project\\Home.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwvzMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:45:14.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Home.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.Designer.cs",
+              "RelativeToolTip": "final_Project\\Home.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:04:30.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dbo.EMPLOYEE_SALARY.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.EMPLOYEE_SALARY.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.EMPLOYEE_SALARY.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-13T16:05:55.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Reciptionist.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.Designer.cs",
+              "RelativeToolTip": "final_Project\\Reciptionist.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:58:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Assign_Staff_Task.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Assign_Staff_Task.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.Designer.cs",
+              "RelativeToolTip": "final_Project\\Assign_Staff_Task.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:04:15.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Assign_Staff_Task.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeDocumentMoniker": "final_Project\\Assign_Staff_Task.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeToolTip": "final_Project\\Assign_Staff_Task.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAkwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:18:00.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StaffDashboard.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\StaffDashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeToolTip": "final_Project\\StaffDashboard.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAcwF4AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Pending_Payment.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Pending_Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeToolTip": "final_Project\\Pending_Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:48:59.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Pending_Payment.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Pending_Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeToolTip": "final_Project\\Pending_Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:52:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\packages.config",
+              "RelativeDocumentMoniker": "final_Project\\packages.config",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\packages.config",
+              "RelativeToolTip": "final_Project\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-12T16:31:19.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs",
+              "RelativeDocumentMoniker": "final_Project\\Registration.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Registration.cs [Design]",
+              "RelativeToolTip": "final_Project\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:53:22.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Facility_Booking.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Facility_Booking.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.Designer.cs",
+              "RelativeToolTip": "final_Project\\Facility_Booking.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:02:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Facility_Booking.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.cs",
+              "RelativeDocumentMoniker": "final_Project\\Facility_Booking.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Facility_Booking.cs",
+              "RelativeToolTip": "final_Project\\Facility_Booking.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:17:07.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "User_Profile.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\User_Profile.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.Designer.cs",
+              "RelativeToolTip": "final_Project\\User_Profile.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAiwM8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:19:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Payment.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Payment.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.Designer.cs",
+              "RelativeToolTip": "final_Project\\Payment.Designer.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAUwNQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:37:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Handle_Rooms_Admin.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Rooms_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeToolTip": "final_Project\\Handle_Rooms_Admin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:43:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "User_Profile.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\User_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeToolTip": "final_Project\\User_Profile.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAWwCMAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:37:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Confirm_Bookings.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs",
+              "RelativeDocumentMoniker": "final_Project\\Confirm_Bookings.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs",
+              "RelativeToolTip": "final_Project\\Confirm_Bookings.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwvyEAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:03:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\App.config",
+              "RelativeDocumentMoniker": "final_Project\\App.config",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\App.config",
+              "RelativeToolTip": "final_Project\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-11T11:22:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Update_Booking_Status_RC.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeDocumentMoniker": "final_Project\\Update_Booking_Status_RC.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeToolTip": "final_Project\\Update_Booking_Status_RC.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwCIAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:55:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Update_Booking_Status_RC.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Update_Booking_Status_RC.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.Designer.cs",
+              "RelativeToolTip": "final_Project\\Update_Booking_Status_RC.Designer.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswBEBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:27:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Reciptionist_Leave.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist_Leave.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs [Design]",
+              "RelativeToolTip": "final_Project\\Reciptionist_Leave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:53:06.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Program.cs",
+              "RelativeDocumentMoniker": "final_Project\\Program.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Program.cs",
+              "RelativeToolTip": "final_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:57:41.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Manage_Users_Admin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Manage_Users_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Manage_Users_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Employee_Profile.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\Employee_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeToolTip": "final_Project\\Employee_Profile.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:19:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Edit_Info.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeDocumentMoniker": "final_Project\\Edit_Info.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeToolTip": "final_Project\\Edit_Info.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEoAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:19:18.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Assign_Staff_Task.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs",
+              "RelativeDocumentMoniker": "final_Project\\Assign_Staff_Task.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Assign_Staff_Task.cs [Design]",
+              "RelativeToolTip": "final_Project\\Assign_Staff_Task.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:17:57.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "QuickCheckOutForm.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\QuickCheckOutForm.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.Designer.cs",
+              "RelativeToolTip": "final_Project\\QuickCheckOutForm.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:40:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "QuickCheckOutForm.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.cs",
+              "RelativeDocumentMoniker": "final_Project\\QuickCheckOutForm.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\QuickCheckOutForm.cs",
+              "RelativeToolTip": "final_Project\\QuickCheckOutForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:40:04.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Reciptionist.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeToolTip": "final_Project\\Reciptionist.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAcwCMAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:52:54.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Manage_Users_Admin.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Manage_Users_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Manage_Users_Admin.cs",
+              "RelativeToolTip": "final_Project\\Manage_Users_Admin.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Pending_Payment.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Pending_Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Pending_Payment.cs [Design]",
+              "RelativeToolTip": "final_Project\\Pending_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:52:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Reciptionist.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist.cs [Design]",
+              "RelativeToolTip": "final_Project\\Reciptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:52:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeDocumentMoniker": "final_Project\\Login.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs [Design]",
+              "RelativeToolTip": "final_Project\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:08.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Employee_Profile.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\Employee_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Employee_Profile.cs [Design]",
+              "RelativeToolTip": "final_Project\\Employee_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:19:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Edit_Info.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs",
+              "RelativeDocumentMoniker": "final_Project\\Edit_Info.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Edit_Info.cs [Design]",
+              "RelativeToolTip": "final_Project\\Edit_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:19:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "User_Profile.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs",
+              "RelativeDocumentMoniker": "final_Project\\User_Profile.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\User_Profile.cs [Design]",
+              "RelativeToolTip": "final_Project\\User_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:55:17.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Update_Booking_Status_RC.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs",
+              "RelativeDocumentMoniker": "final_Project\\Update_Booking_Status_RC.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Update_Booking_Status_RC.cs [Design]",
+              "RelativeToolTip": "final_Project\\Update_Booking_Status_RC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:55:02.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Handle_Leave_RequestcsAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Handle_Leave_RequestcsAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Handle_Rooms_Admin.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Rooms_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs [Design]",
+              "RelativeToolTip": "final_Project\\Handle_Rooms_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:27.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "StaffDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\StaffDashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\StaffDashboard.cs [Design]",
+              "RelativeToolTip": "final_Project\\StaffDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeDocumentMoniker": "final_Project\\Home.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs [Design]",
+              "RelativeToolTip": "final_Project\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Staff_LeaveApplication.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeDocumentMoniker": "final_Project\\Staff_LeaveApplication.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs [Design]",
+              "RelativeToolTip": "final_Project\\Staff_LeaveApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "glfhgn2v..sql",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\glfhgn2v..sql",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\glfhgn2v..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-08T20:19:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Confirm_Bookings.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs",
+              "RelativeDocumentMoniker": "final_Project\\Confirm_Bookings.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Confirm_Bookings.cs",
+              "RelativeToolTip": "final_Project\\Confirm_Bookings.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwvyEAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:18:28.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs",
+              "RelativeDocumentMoniker": "final_Project\\Payment.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Payment.cs [Design]",
+              "RelativeToolTip": "final_Project\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:21:46.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "dbo.LEAVE_REQUEST.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.LEAVE_REQUEST.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.LEAVE_REQUEST.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-07T18:29:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Room_Details.Designer.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.Designer.cs",
+              "RelativeDocumentMoniker": "final_Project\\Room_Details.Designer.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.Designer.cs",
+              "RelativeToolTip": "final_Project\\Room_Details.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwDgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:18:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeDocumentMoniker": "final_Project\\Rooms.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeToolTip": "final_Project\\Rooms.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAACAAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:22:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Rooms.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs",
+              "RelativeDocumentMoniker": "final_Project\\Rooms.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Rooms.cs [Design]",
+              "RelativeToolTip": "final_Project\\Rooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:23:59.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Room_Details.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeDocumentMoniker": "final_Project\\Room_Details.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeToolTip": "final_Project\\Room_Details.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAACQAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:23:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Room_Details.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs",
+              "RelativeDocumentMoniker": "final_Project\\Room_Details.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Room_Details.cs [Design]",
+              "RelativeToolTip": "final_Project\\Room_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:23:39.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeToolTip": "final_Project\\Admin_Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:16:56.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "final_Project\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "final_Project\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:16:53.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Forgot_Password.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "final_Project\\Forgot_Password.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeToolTip": "final_Project\\Forgot_Password.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCYAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:00.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Forgot_Password.cs [Design]",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "final_Project\\Forgot_Password.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Forgot_Password.cs [Design]",
+              "RelativeToolTip": "final_Project\\Forgot_Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:19:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "dbo.USER_TABLE.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.USER_TABLE.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.USER_TABLE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-07T09:13:42.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeDocumentMoniker": "final_Project\\Login.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Login.cs",
+              "RelativeToolTip": "final_Project\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:11:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Handle_Rooms_Admin.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Rooms_Admin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Rooms_Admin.cs",
+              "RelativeToolTip": "final_Project\\Handle_Rooms_Admin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:29.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Payment.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Payment.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAYwJwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:46:05.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeDocumentMoniker": "final_Project\\Home.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Home.cs",
+              "RelativeToolTip": "final_Project\\Home.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwvzMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:57.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "dbo.ROOM_ASSIGNMENTS.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.ROOM_ASSIGNMENTS.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.ROOM_ASSIGNMENTS.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-05T03:57:13.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "dbo.BOOKINGS_TABLE.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.BOOKINGS_TABLE.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDB1/True/SqlTable/dbo.BOOKINGS_TABLE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-05T03:49:29.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Handle_Leave_RequestcsAdmin.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "RelativeDocumentMoniker": "final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "RelativeToolTip": "final_Project\\Handle_Leave_RequestcsAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:20:14.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Staff_LeaveApplication.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeDocumentMoniker": "final_Project\\Staff_LeaveApplication.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Staff_LeaveApplication.cs",
+              "RelativeToolTip": "final_Project\\Staff_LeaveApplication.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAACAAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:54:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Reciptionist_Leave.cs",
+              "DocumentMoniker": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeDocumentMoniker": "final_Project\\Reciptionist_Leave.cs",
+              "ToolTip": "E:\\9th semester\\HMS PROJECT\\final_Project\\Reciptionist_Leave.cs",
+              "RelativeToolTip": "final_Project\\Reciptionist_Leave.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvyEAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T17:53:08.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "dbo.ROOM_TABLE.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDATABASE/True/SqlTable/dbo.ROOM_TABLE.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/HMSDATABASE/True/SqlTable/dbo.ROOM_TABLE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-04T15:38:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\Multi-User_Hotel_Management_System_in_C-Sharp_Windows_Forms-master\\final_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:14:18.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
