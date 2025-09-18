@@ -15,12 +15,12 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
                                                          Features List  
                                                          
                                       
-1. User Authentication & Management
+[1]   User Authentication & Management
        •	Registration: New users can sign up with name, email, phone, and password.
        •	Login: Role-based login (Customer, Receptionist, Staff, Admin).
        •	Password Recovery: Forgot password functionality via email and phone verification.
        •	Profile Management: Users can view and edit their personal information.
-2. Customer Features
+[2]  Customer Features
    •	Room Booking:
        o	View available rooms with images, descriptions, and pricing.
        o	Filter and sort rooms (alphabetically, price low-high, price high-low, Booked, Available ).
