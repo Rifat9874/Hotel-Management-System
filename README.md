@@ -1,5 +1,5 @@
 
-                                                                # Hotel-Management-System
+                                             # Hotel-Management-System
 
                                                                 
 Case Study: Successful Implementation of Hotel Management System (HMS):
