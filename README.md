@@ -12,7 +12,7 @@ The HMS enhanced customer experience with a review system, allowing guests to ra
 Overall, the HMS transformed the hotel’s operations, improving operational accuracy, reducing manual tasks, and enhancing guest satisfaction, making it an ideal solution for hospitality businesses seeking efficiency and scalability.
 
 
-                                                         Features List  
+                                               Features List  
                                                          
                                       
 [1]   User Authentication & Management
@@ -79,7 +79,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        o	Leave Info: Shows leave history, remaining leave, and statuses (Pending, Approved).
         
        
-                                                          4. Staff Features
+                                                    Staff Features
 
                                                              
    •	Staff Dashboard
@@ -99,7 +99,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        o	A list of tasks assigned to the staff with options to mark tasks as completed. Includes an option to report room issues.
 
        
-                                                                            5. Admin Features
+                                                     Admin Features
 
 
   •	Dashboard Overview:
@@ -126,7 +126,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        o	Update salary 
        o	Add Bonus 
        
-                                                              Technical Features
+                                                           Technical Features
 
   •	Database Integration:
        o	SQL Server for storing user data, bookings, rooms, etc.
@@ -140,7 +140,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        o	Adjusts UI elements based on screen size.
 
        
-                                                                  Additional Features
+                                                          Additional Features
                                                                   
    •	Room Details:
        o	View room images, amenities, and features.
@@ -150,12 +150,12 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
       o	Prevents booking conflicts by checking room availability.
 
 
-                                                                Schema Diagram
+                                                           Schema Diagram
    
   <img width="1065" height="683" alt="image" src="https://github.com/user-attachments/assets/c60f79b3-ba6a-47de-842d-eb5472a1e1b3" />
 
 
-                                                                 ER  DIAGRAM
+                                                          ER  DIAGRAM
    
   <img width="1079" height="1230" alt="image" src="https://github.com/user-attachments/assets/0bf1412e-12a4-4766-bdee-a5a30fe817b1" />
 
@@ -252,7 +252,7 @@ User  Authentication query :
         WHERE EMAIL = @Email
 
         
-                                                                          CUSTOMER  :
+                                                             CUSTOMER  
 
                                                                           
  REGISTRATION FORM :
@@ -305,7 +305,7 @@ User  Authentication query :
                 SELECT ROOM_ID FROM BOOKINGS_TABLE WHERE BOOKING_ID = @BookingId
                 
 
-                                                              STAFF:
+                                                        STAFF
                                                                                 
 
 [ 1  ]   GET USER INFORMATION
@@ -352,7 +352,7 @@ User  Authentication query :
           FROM MaintenanceRequests
 
 
-                                                                 RECEPTIONIST :
+                                                       RECEPTIONIST 
 
                                                                                                  
  
@@ -369,7 +369,7 @@ User  Authentication query :
                SET BOOKING_STATUS = 'CHECK-OUT' 
                WHERE BOOKING_ID = @BookingId
 
-                                                              ADDITIONAL QUERY:
+                                                        ADDITIONAL QUERY
                                                                     
   [ 1 ]  GET STAFF EMAILS 
            SELECT EMAIL FROM USER_TABLE WHERE USER_TYPE = 'STAFF'
@@ -416,7 +416,7 @@ User  Authentication query :
          END
 
 
-                                                         Home Page:
+                                                   Home Page:
 
                                                          
    <img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/5ab30aa5-8b6d-42b8-a939-fe55c22e22fc" />
