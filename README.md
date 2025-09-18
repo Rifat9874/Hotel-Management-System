@@ -47,7 +47,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
   •	Edit Info & Unpaid Pay Bill 
       o	Easily update your details
       o	View and manage unpaid bills through a user-friendly online portal.
-3. Receptionist Features
+[ 3 ] Receptionist Features
   •	Booking Management:
       o	View all active bookings.
       o	Update booking status (Booked → Check-In → Check-Out).
@@ -79,7 +79,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        o	Leave Info: Shows leave history, remaining leave, and statuses (Pending, Approved).
         
        
-                                                             4. Staff Features
+                                                          4. Staff Features
 
                                                              
    •	Staff Dashboard
@@ -167,18 +167,18 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
 
    ADMIN DASHBOARD:
 
-1.LOAD ROOMS
+[ 1 ]  LOAD ROOMS
              SELECT RA.ROOM_ID, SA.NAME
             FROM BOOKINGS_TABLE RA
            JOIN USER_TABLE SA ON RA.EMAIL = SA.EMAIL
             WHERE RA.BOOKING_STATUS = 'CHECK-IN'
             
-2.LOAD BOOKING HISTORY 
+[ 2 ] LOAD BOOKING HISTORY 
           SELECT RA.ROOM_ID, RA.BOOKING_DATE, SA.NAME
           FROM BOOKINGS_TABLE RA
            JOIN USER_TABLE SA ON RA.EMAIL = SA.EMAIL
 
- 3.LOAD DASHBOARD COUNTS:
+ [ 3 ]LOAD DASHBOARD COUNTS:
             -- Total Bookings
                 SELECT COUNT(*) FROM BOOKINGS_TABLE
             -- Occupied Rooms
@@ -190,7 +190,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
                FROM BOOKINGS_TABLE B
                JOIN ROOM_TABLE R ON B.ROOM_ID = R.ROOM_ID
                WHERE CAST(B.BOOKING_DATE AS DATE) = CAST(GETDATE() AS DATE)
- 4.  LOAD REVIEWS 
+ [ 4 ] LOAD REVIEWS 
             SELECT
             R.REVIEW_ID,
             U.NAME AS CustomerName,
@@ -204,7 +204,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
             JOIN USER_TABLE U ON R.EMAIL = U.EMAIL
            JOIN BOOKINGS_TABLE B ON R.BOOKING_ID = B.BOOKING_ID
           ORDER BY R.REVIEW_DATE DESC
- 5.  LOAD FACILITY BOOKINGS
+ [ 5 ]LOAD FACILITY BOOKINGS
              SELECT 
     FB.FACILITY_BOOKING_ID,
     U.NAME AS CustomerName,
@@ -218,7 +218,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
     FROM FACILITIES_BOOKING FB
     JOIN USER_TABLE U ON FB.EMAIL = U.EMAIL
      ORDER BY FB.BOOKING_DATE DESC
- 6.  REVENUE REPORT  
+[ 6 ] REVENUE REPORT  
          SELECT
        CONCAT(DATENAME(MONTH, B.BOOKING_DATE), ' ', YEAR(B.BOOKING_DATE)) AS Month,
         SUM(DATEDIFF(DAY, B.CHECK_IN, B.CHECK_OUT) * R.PPN) AS Revenue,
@@ -228,7 +228,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
        WHERE B.BOOKING_DATE BETWEEN @StartDate AND @EndDate
        GROUP BY YEAR(B.BOOKING_DATE), MONTH(B.BOOKING_DATE), DATENAME(MONTH, B.BOOKING_DATE)
            ORDER BY YEAR(B.BOOKING_DATE), MONTH(B.BOOKING_DATE)
-7.BOOKING REPORT QUERY  
+[ 7 ]BOOKING REPORT QUERY  
         SELECT 
          B.BOOKING_ID,
         U.NAME AS CustomerName,
@@ -256,28 +256,28 @@ User  Authentication query :
 
                                                                           
  REGISTRATION FORM :
-1.MAIN INSERT QUERY :
+[ 1 ]  MAIN INSERT QUERY :
       INSERT INTO USER_TABLE (NAME, PHONE_NUMBER, EMAIL, PASSWORD, USER_TYPE)
        VALUES (@Name, @Phone, @Email, @Password, 'CUSTOMER')
-2.CHECK EMAIL EXISTENCE(BEFORE REGISTRATION)
+[ 2 ]   CHECK EMAIL EXISTENCE(BEFORE REGISTRATION)
              SELECT COUNT(*) FROM USER_TABLE WHERE EMAIL = @Email
-3.GET USER DETAILS AFTER REGISTRATION FORM
+[ 3 ]    GET USER DETAILS AFTER REGISTRATION FORM
              SELECT USER_ID, NAME, EMAIL, USER_TYPE FROM USER_TABLE WHERE EMAIL = @Email
-4.GET ROOM DETAILS :
+[ 4 ]     GET ROOM DETAILS :
            SELECT TYPE, PPN, DESCRIPTION, PICTURE, COMPLIMENTARY, FEATURES
            FROM ROOM_TABLE
             WHERE ROOM_ID = @RoomId
-5.GET ADDITIONAL ROOM P;ICTURES :
+[ 5 ]   GET ADDITIONAL ROOM P;ICTURES :
            SELECT IMAGE_1, IMAGE_2, IMAGE_3
            FROM ADDITIONAL_PICTURES
            WHERE ROOM_ID = @RoomId
-6.GET USER INFORMATION
+[ 6 ]GET USER INFORMATION
             SELECT NAME
             FROM USER_TABLE
             WHERE EMAIL = @Email
-7.GET ALL ROOMS
+[ 7  ]  GET ALL ROOMS
             SELECT ROOM_ID, TYPE, PPN, DESCRIPTION, PICTURE FROM ROOM_TABLE
-8.CHECK ROOM AVAILABILITY 
+[ 8 ]   CHECK ROOM AVAILABILITY 
             SELECT COUNT(*) 
              FROM BOOKINGS_TABLE 
              WHERE ROOM_ID = @RoomId 
@@ -285,103 +285,103 @@ User  Authentication query :
             AND (
            (CHECK_IN <= @CheckOut AND CHECK_OUT >= @CheckIn)
                  )
-9.GET USER INFORMATION 
+[ 9 ]  GET USER INFORMATION 
              SELECT NAME FROM USER_TABLE WHERE EMAIL = @Email
-10.SEARCH ROOM BY TYPE 
+[ 10 ]  SEARCH ROOM BY TYPE 
            SELECT ROOM_ID, TYPE, PPN, DESCRIPTION, PICTURE
             FROM ROOM_TABLE
             WHERE TYPE LIKE @SearchText
 
-11.GET ROOM PRICE (PPN)
+[ 11  ]  GET ROOM PRICE (PPN)
                SELECT PPN FROM ROOM_TABLE WHERE ROOM_ID = @RoomId
-12.UPDATE BOOKING STATUS TO PAID
+[ 12  ]  UPDATE BOOKING STATUS TO PAID
                 UPDATE BOOKINGS_TABLE SET BOOKING_STATUS='PAID' WHERE BOOKING_ID = @BookingId
-13.INSERT PAYMENT METHOD 
+[ 13  ]   INSERT PAYMENT METHOD 
                     INSERT INTO PAYMENT (P_ID, BOOKING_ID, CARD_NUMBER, EXP_DATE, CODE, BILL) 
-VALUES (@P_ID, @BOOKING_ID, @CARD_NUMBER, @EXP_DATE, @CODE, @BILL)
- 14.GET NEXT PAYMENT METHOD ID
+       VALUES (@P_ID, @BOOKING_ID, @CARD_NUMBER, @EXP_DATE, @CODE, @BILL)
+[ 14 ]  GET NEXT PAYMENT METHOD ID
                SELECT ISNULL(MAX(P_ID), 0) + 1 FROM PAYMENT
-15.FIND ROOM ID BOOKING 
+[ 15 ]FIND ROOM ID BOOKING 
                 SELECT ROOM_ID FROM BOOKINGS_TABLE WHERE BOOKING_ID = @BookingId
                 
 
-                                                                               STAFF:
+                                                              STAFF:
                                                                                 
 
-1.GET USER INFORMATION
+[ 1  ]   GET USER INFORMATION
               SELECT NAME FROM USER_TABLE WHERE EMAIL = @email
-2.LOAD ROOM ASSIGHNMENTS(ALL STAFF)
+[ 2 ]  LOAD ROOM ASSIGHNMENTS(ALL STAFF)
               SELECT RA.ASSIGNMENT_ID, RA.ROOM_ID, RA.ASSIGNED_DATE, RA.EMAIL, RA.ROOM_STATUS, UT.NAME
                FROM ROOM_ASSIGNMENTS RA
                   JOIN USER_TABLE UT ON RA.EMAIL = UT.EMAIL
                  WHERE (@nameFilter = '' OR UT.NAME LIKE @nameFilter)
-3.SEARCH ROOM ASSIGHNMENTS BY NAME 
+[ 3 ]SEARCH ROOM ASSIGHNMENTS BY NAME 
                  SELECT RA.ASSIGNMENT_ID, RA.ROOM_ID, RA.ASSIGNED_DATE, RA.EMAIL, RA.ROOM_STATUS, UT.NAME
                FROM ROOM_ASSIGNMENTS RA
              JOIN USER_TABLE UT ON RA.EMAIL = UT.EMAIL
                WHERE UT.NAME LIKE @nameFilter
-4.INSERT LAVE REQUEST :
+[ 4  ]INSERT LAVE REQUEST :
             INSERT INTO LEAVE_REQUEST (LEAVE_ID, EMAIL, FROM_DATE, TO_DATE, REASON, STATUS) 
            VALUES (@Id, @Email, @FromDate, @ToDate, @Reason, 'Pending')
-5.LOAD LEAVE HISTORY:
+[ 5  ]LOAD LEAVE HISTORY:
               SELECT RA.FROM_DATE, RA.TO_DATE, RA.REASON, RA.STATUS, UT.NAME 
               FROM LEAVE_REQUEST RA
               JOIN USER_TABLE UT ON RA.EMAIL = UT.EMAIL
               WHERE RA.EMAIL = @Email
               ORDER BY RA.FROM_DATE DESC
-6.LOAD MY TASKS ;
+[ 6 ]LOAD MY TASKS ;
            SELECT ROOM_ID, ROOM_STATUS, ASSIGNED_DATE
             FROM ROOM_ASSIGNMENTS  
             WHERE EMAIL = @myEmail 
              ORDER BY ASSIGNED_DATE DESC
-7.UPDATE TASKS STATUS TO COMPLETED ;
+[ 7 ]UPDATE TASKS STATUS TO COMPLETED ;
               UPDATE ROOM_ASSIGNMENTS
               SET ROOM_STATUS = 'CLEANED'
               WHERE ROOM_ID = @roomId AND EMAIL = @email
-8.VERIFY TASK OWNERSHIP:
+[ 8 ]VERIFY TASK OWNERSHIP:
             SELECT COUNT(*)
             FROM ROOM_ASSIGNMENTS
          WHERE ROOM_ID = @roomId AND EMAIL = @email
 
-9.SUBMIT MAINTENANCE REQUEST :
+[ 9  ]SUBMIT MAINTENANCE REQUEST :
         INSERT INTO MaintenanceRequests (M_ID, ROOM_ID, PROBLEM, STATUS, SUBMIT_DATE, EMAIL) 
            VALUES (@Id, @RoomId, @Problem, 'Pending', @Today, @Email)
 
-10.GET NEXT MAINTENANCE REQUEST ID:
+[ 10 ]GET NEXT MAINTENANCE REQUEST ID:
            SELECT ISNULL(MAX(CAST(SUBSTRING(M_ID, 3, LEN(M_ID)) AS INT)), 0) + 1
           FROM MaintenanceRequests
 
 
-                                                                                                 RECEPTIONIST :
+                                                                 RECEPTIONIST :
 
                                                                                                  
  
-1.GET RECEPTIONIST INFORMATION
+[ 1  ] GET RECEPTIONIST INFORMATION
                SELECT NAME FROM USER_TABLE WHERE EMAIL = @Email
-2.LOAD BOOKING WITH FILTERING
+[ 2 ]  LOAD BOOKING WITH FILTERING
                SELECT RA.BOOKING_ID, RA.EMAIL, RA.ROOM_ID, RA.CHECK_IN, RA.CHECK_OUT,
               RA.BOOKING_STATUS, UT.NAME
                FROM BOOKINGS_TABLE RA
                JOIN USER_TABLE UT ON RA.EMAIL = UT.EMAIL
                WHERE 1=1
-3.CHECK OUT GUEST:
+[ 3 ] CHECK OUT GUEST:
               UPDATE BOOKINGS_TABLE 
                SET BOOKING_STATUS = 'CHECK-OUT' 
                WHERE BOOKING_ID = @BookingId
 
-                                                                    ADDITIONAL QUERY:
+                                                              ADDITIONAL QUERY:
                                                                     
-  1.GET STAFF EMAILS 
+  [ 1 ]  GET STAFF EMAILS 
            SELECT EMAIL FROM USER_TABLE WHERE USER_TYPE = 'STAFF'
-  2.GENERATE NEW ASSIGHNMENTS ID 
+  [ 2  ]  GENERATE NEW ASSIGHNMENTS ID 
               SELECT ISNULL(MAX(CAST(ASSIGNMENT_ID AS INT)), 0) + 1 
                FROM ROOM_ASSIGNMENTS 
               WHERE ISNUMERIC(ASSIGNMENT_ID) = 1
-3.INSERT ROOM ASSIGHNMENTS :
+[ 3  ] INSERT ROOM ASSIGHNMENTS :
        INSERT INTO ROOM_ASSIGNMENTS 
         (ASSIGNMENT_ID, ROOM_ID, ASSIGNED_DATE, EMAIL, ROOM_STATUS) 
           VALUES (@id, @room, @date, @email, @status)
-4.LEAVE STATISTICS
+[ 4  ] LEAVE STATISTICS
            SELECT
             COUNT(*) as TotalRequests,
            SUM(CASE WHEN STATUS = 'APPROVED' THEN 1 ELSE 0 END) as ApprovedRequests,
@@ -391,7 +391,7 @@ VALUES (@P_ID, @BOOKING_ID, @CARD_NUMBER, @EXP_DATE, @CODE, @BILL)
           FROM LEAVE_REQUEST
           WHERE EMAIL = @Email
 
-5.GET USER VERIFICATION DATA :
+[ 5 ]GET USER VERIFICATION DATA :
           CREATE PROCEDURE sp_GetUserVerificationData
            @Email NVARCHAR(255)
            AS
@@ -402,7 +402,7 @@ VALUES (@P_ID, @BOOKING_ID, @CARD_NUMBER, @EXP_DATE, @CODE, @BILL)
             SECURITY_QUESTION -- Optional: Add for additional security
             WHERE EMAIL = @Email
               END
-6.UPDATE PASSWORD
+[ 6 ]UPDATE PASSWORD
            CREATE PROCEDURE sp_GetUserVerificationData
            @Email NVARCHAR(255)
              AS
