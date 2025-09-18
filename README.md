@@ -190,7 +190,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
                FROM BOOKINGS_TABLE B
                JOIN ROOM_TABLE R ON B.ROOM_ID = R.ROOM_ID
                WHERE CAST(B.BOOKING_DATE AS DATE) = CAST(GETDATE() AS DATE)
-4.LOAD REVIEWS 
+ 4.  LOAD REVIEWS 
             SELECT
             R.REVIEW_ID,
             U.NAME AS CustomerName,
@@ -204,7 +204,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
             JOIN USER_TABLE U ON R.EMAIL = U.EMAIL
            JOIN BOOKINGS_TABLE B ON R.BOOKING_ID = B.BOOKING_ID
           ORDER BY R.REVIEW_DATE DESC
-5.LOAD FACILITY BOOKINGS
+ 5.  LOAD FACILITY BOOKINGS
              SELECT 
     FB.FACILITY_BOOKING_ID,
     U.NAME AS CustomerName,
@@ -218,7 +218,7 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
     FROM FACILITIES_BOOKING FB
     JOIN USER_TABLE U ON FB.EMAIL = U.EMAIL
      ORDER BY FB.BOOKING_DATE DESC
-6.REVENUE REPORT  
+ 6.  REVENUE REPORT  
          SELECT
        CONCAT(DATENAME(MONTH, B.BOOKING_DATE), ' ', YEAR(B.BOOKING_DATE)) AS Month,
         SUM(DATEDIFF(DAY, B.CHECK_IN, B.CHECK_OUT) * R.PPN) AS Revenue,
