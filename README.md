@@ -152,12 +152,12 @@ Overall, the HMS transformed the hotel’s operations, improving operational acc
 
                                                                 Schema Diagram
    
-        <img width="1065" height="683" alt="image" src="https://github.com/user-attachments/assets/c60f79b3-ba6a-47de-842d-eb5472a1e1b3" />
+  <img width="1065" height="683" alt="image" src="https://github.com/user-attachments/assets/c60f79b3-ba6a-47de-842d-eb5472a1e1b3" />
 
 
                                                                  ER  DIAGRAM
    
-     <img width="1079" height="1230" alt="image" src="https://github.com/user-attachments/assets/0bf1412e-12a4-4766-bdee-a5a30fe817b1" />
+  <img width="1079" height="1230" alt="image" src="https://github.com/user-attachments/assets/0bf1412e-12a4-4766-bdee-a5a30fe817b1" />
 
 
  
