@@ -224,7 +224,7 @@ namespace final_Project
                 headerTable.DefaultCell.Border = iTextSharp.text.Rectangle.NO_BORDER; // FIXED: Added namespace
 
                 // Hotel header
-                PdfPCell headerCell = new PdfPCell(new Phrase("RIFAT  GRAND HOTEL ",
+                PdfPCell headerCell = new PdfPCell(new Phrase("RIFAT GRAND HOTEL",
                     new iTextSharp.text.Font(iTextSharp.text.Font.FontFamily.HELVETICA, 20, iTextSharp.text.Font.BOLD, primaryColor)));
                 headerCell.HorizontalAlignment = Element.ALIGN_LEFT;
                 headerCell.Border = iTextSharp.text.Rectangle.NO_BORDER; // FIXED: Added namespace
